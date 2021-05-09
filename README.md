@@ -1,4 +1,4 @@
-[![N|Solid](https://www.bobit.us/images/bobit-logo.png)](https://bobit37.github.io/Resume/)
+[![N|Solid](https://bobit.us/wp-content/uploads/2021/04/bobit-logo.png)](https://bobit37.github.io/Resume/)
 
 # Pagination Helper Task
 
